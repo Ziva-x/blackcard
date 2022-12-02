@@ -146,7 +146,7 @@ h4 {
     border:dashed white 2px;
     text-align: center;
     text-decoration: none;  
-    color: #000000;  
+    color: black;  
     word-wrap: break-word;
     background-color: transparent;
     
@@ -173,7 +173,7 @@ a:hover {
 }
 
 h4 {
- color: ;
+ color: black;
  padding: 2% 0% 0% 0%;
 }
 
